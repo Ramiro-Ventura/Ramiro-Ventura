@@ -26,14 +26,6 @@ I'm a creative full-stack developer that creates beautifull, creative and conver
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ---
 
-## 📂 O que encontras aqui
-
-- **[Projeto 1](link)** — Breve descrição
-- **[Projeto 2](link)** — Breve descrição
-- **[Projeto 3](link)** — Breve descrição
-
----
-
 ## 📬 Contacto
 
 - 📧E-mail: [ramiro.herlander.ventura@gmail.com](mailto:ramiro.herlander.ventura@gmail.com)

@@ -9,7 +9,7 @@ I'm a creative full-stack developer that creates beautifull, creative and conver
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack and Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -26,7 +26,7 @@ I'm a creative full-stack developer that creates beautifull, creative and conver
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 - 📧E-mail: [ramiro.herlander.ventura@gmail.com](mailto:ramiro.herlander.ventura@gmail.com)
 - 💼Linkedin: [linkedin.com/in/ramiro-ventura](https://www.linkedin.com/in/ramiro-ventura/)

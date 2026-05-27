@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramiro Ventura
 
-I'm a creative full-stack developer that creates beautifull, creative and converting websites as well some full-stack apps like a "No Code Website Builder" or "Free Youtube Music Player".
+I'm a full-stack developer that creates beautifull, creative and converting websites and full-stack apps like a "No Code Website Builder" or "Free Youtube Music Player" as well.
 ---
 
 ## 🌐 Website

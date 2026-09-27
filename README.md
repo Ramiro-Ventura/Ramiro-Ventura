@@ -5,7 +5,7 @@ I'm a full-stack developer that creates beautifull, creative and converting webs
 
 ## 🌐 Website
 
-🔗Website 👉 [ramiro-ventura.com](https://ramiro-ventura.me)
+🔗Website 👉 [ramiro-ventura.me](https://ramiro-ventura.me)
 
 ---
 
